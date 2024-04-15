@@ -12,7 +12,7 @@ Searching Sorting
 RECURSION & DnC Backtrack
 Pointers
 DNC
---
+&
 LL
 stack
 queue

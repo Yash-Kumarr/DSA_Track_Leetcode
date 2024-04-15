@@ -3,6 +3,7 @@
 ![](https://leetcard.jacoblin.cool/YASHKUMAR99?ext=heatmap)
 
 Leetcode profile : https://leetcode.com/YASHKUMAR99/
+CodingNinjas : https://www.naukri.com/code360/profile/198763a8-f9f5-4448-ae59-1703e85c7030
 
 Topics-
 Pattern
